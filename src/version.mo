@@ -7,9 +7,9 @@
  */
 
 import Galois "galois";
-import List "mo:stdlib/list";
+import List "mo:base/list";
 import Nat "nat";
-import Prelude "mo:stdlib/prelude";
+import Prelude "mo:base/prelude";
 import Util "util";
 
 module {

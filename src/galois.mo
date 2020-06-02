@@ -6,10 +6,10 @@
  * Stability  : Stable
  */
 
-import Array "mo:stdlib/array";
-import List "mo:stdlib/list";
+import Array "mo:base/array";
+import List "mo:base/list";
 import Nat "nat";
-import Prelude "mo:stdlib/prelude";
+import Prelude "mo:base/prelude";
 import Prim "mo:prim";
 import Util "util"
 

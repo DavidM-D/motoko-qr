@@ -6,8 +6,8 @@
  * Stability  : Stable
  */
 
-import Option "mo:stdlib/option";
-import Prelude "mo:stdlib/prelude";
+import Option "mo:base/option";
+import Prelude "mo:base/prelude";
 import QR "canister:qr";
 
 actor {
@@ -51,7 +51,7 @@ actor {
         example.mode,
         example.input
       );
-      if (Option.isSome<Matrix>(result)) {
+      if (Option.isSome(result)) {
         let matrix = Option.unwrap<Matrix>(result);
         await QR.show(matrix)
       } else {

@@ -7,7 +7,7 @@
  */
 
 import Format "../src/format";
-import List "mo:stdlib/list";
+import List "mo:base/list";
 import Nat "../src/nat";
 
 actor {

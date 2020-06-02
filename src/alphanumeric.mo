@@ -6,16 +6,16 @@
  * Stability  : Stable
  */
 
-import Array "mo:stdlib/array";
+import Array "mo:base/array";
 import Common "common";
-import Iter "mo:stdlib/iter";
-import List "mo:stdlib/list";
+import Iter "mo:base/iter";
+import List "mo:base/list";
 import Nat "nat";
-import Option "mo:stdlib/option";
-import Prelude "mo:stdlib/prelude";
+import Option "mo:base/option";
+import Prelude "mo:base/prelude";
 import Prim "mo:prim";
-import Text "mo:stdlib/text";
-import Trie "mo:stdlib/trie";
+import Text "mo:base/text";
+import Trie "mo:base/trie";
 import Util "util";
 import Version "version";
 

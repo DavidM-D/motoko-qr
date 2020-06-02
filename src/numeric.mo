@@ -6,14 +6,14 @@
  * Stability  : Experimental
  */
 
-import Char "mo:stdlib/char";
+import Char "mo:base/char";
 import Common "common";
-import Iter "mo:stdlib/iter";
-import List "mo:stdlib/list";
+import Iter "mo:base/iter";
+import List "mo:base/list";
 import Nat "nat";
-import Option "mo:stdlib/option";
+import Option "mo:base/option";
 import Prim "mo:prim";
-import Text "mo:stdlib/text";
+import Text "mo:base/text";
 import Util "util";
 import Version "version";
 

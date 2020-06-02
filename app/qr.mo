@@ -7,15 +7,15 @@
  */
 
 import Alphanumeric "../src/alphanumeric";
-import Array "mo:stdlib/array";
+import Array "mo:base/array";
 import Block "../src/block";
 import Common "../src/common";
 import EightBit "../src/eight-bit";
 import Kanji "../src/kanji";
-import List "mo:stdlib/list";
+import List "mo:base/list";
 import Mask "../src/mask";
 import Numeric "../src/numeric";
-import Option "mo:stdlib/option";
+import Option "mo:base/option";
 import Symbol "../src/symbol";
 import Version "../src/version";
 

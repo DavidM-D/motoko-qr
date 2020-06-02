@@ -6,10 +6,10 @@
  * Stability  : Experimental
  */
 
-import Array "mo:stdlib/array";
+import Array "mo:base/array";
 import Galois "galois";
-import List "mo:stdlib/list";
-import Prelude "mo:stdlib/prelude";
+import List "mo:base/list";
+import Prelude "mo:base/prelude";
 import Version "version";
 
 module {

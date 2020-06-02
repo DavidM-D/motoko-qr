@@ -8,7 +8,7 @@
 
 import Common "common";
 import Galois "galois";
-import List "mo:stdlib/list";
+import List "mo:base/list";
 import Nat "nat";
 import Util "util";
 

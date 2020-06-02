@@ -7,7 +7,7 @@
  */
 
 import Common "common";
-import List "mo:stdlib/list";
+import List "mo:base/list";
 import Symbol "symbol";
 import Version "version";
 
